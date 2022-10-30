@@ -1,6 +1,6 @@
 #My-PortFolio
 
-Hey My name is Ayush Joshi.
+Hey My name is Ayush Joshi Joshi.
 This my my project stmt. ok.
 For now, I Know:
 
